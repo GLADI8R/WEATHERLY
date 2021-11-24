@@ -1,4 +1,4 @@
-const apiKey = '474b99e4449c0019bc658d9bb118d04f';
+const apiKey = 'YOUR API KEY';
 
 window.addEventListener('DOMContentLoaded', () => {
 	console.log('Loaded...');
